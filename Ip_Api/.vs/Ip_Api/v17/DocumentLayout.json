@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\luisf\\Desktop\\ejercicios\\Prueba_Izzi_Ip\\Ip_Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E702D81-BB18-460B-94B8-4DA31FCA22B1}|Ip_Api\\Ip_Api.csproj|c:\\users\\luisf\\desktop\\ejercicios\\prueba_izzi_ip\\ip_api\\ip_api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E702D81-BB18-460B-94B8-4DA31FCA22B1}|Ip_Api\\Ip_Api.csproj|solutionrelative:ip_api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E702D81-BB18-460B-94B8-4DA31FCA22B1}|Ip_Api\\Ip_Api.csproj|c:\\users\\luisf\\desktop\\ejercicios\\prueba_izzi_ip\\ip_api\\ip_api\\models\\iprecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E702D81-BB18-460B-94B8-4DA31FCA22B1}|Ip_Api\\Ip_Api.csproj|solutionrelative:ip_api\\models\\iprecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E702D81-BB18-460B-94B8-4DA31FCA22B1}|Ip_Api\\Ip_Api.csproj|c:\\users\\luisf\\desktop\\ejercicios\\prueba_izzi_ip\\ip_api\\ip_api\\services\\ipservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E702D81-BB18-460B-94B8-4DA31FCA22B1}|Ip_Api\\Ip_Api.csproj|solutionrelative:ip_api\\services\\ipservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E702D81-BB18-460B-94B8-4DA31FCA22B1}|Ip_Api\\Ip_Api.csproj|c:\\users\\luisf\\desktop\\ejercicios\\prueba_izzi_ip\\ip_api\\ip_api\\controllers\\ipcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E702D81-BB18-460B-94B8-4DA31FCA22B1}|Ip_Api\\Ip_Api.csproj|solutionrelative:ip_api\\controllers\\ipcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E702D81-BB18-460B-94B8-4DA31FCA22B1}|Ip_Api\\Ip_Api.csproj|c:\\users\\luisf\\desktop\\ejercicios\\prueba_izzi_ip\\ip_api\\ip_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E702D81-BB18-460B-94B8-4DA31FCA22B1}|Ip_Api\\Ip_Api.csproj|solutionrelative:ip_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\luisf\\Desktop\\ejercicios\\Prueba_Izzi_Ip\\Ip_Api\\Ip_Api\\Program.cs",
+              "RelativeDocumentMoniker": "Ip_Api\\Program.cs",
+              "ToolTip": "C:\\Users\\luisf\\Desktop\\ejercicios\\Prueba_Izzi_Ip\\Ip_Api\\Ip_Api\\Program.cs",
+              "RelativeToolTip": "Ip_Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T22:29:50.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IpController.cs",
+              "DocumentMoniker": "C:\\Users\\luisf\\Desktop\\ejercicios\\Prueba_Izzi_Ip\\Ip_Api\\Ip_Api\\Controllers\\IpController.cs",
+              "RelativeDocumentMoniker": "Ip_Api\\Controllers\\IpController.cs",
+              "ToolTip": "C:\\Users\\luisf\\Desktop\\ejercicios\\Prueba_Izzi_Ip\\Ip_Api\\Ip_Api\\Controllers\\IpController.cs",
+              "RelativeToolTip": "Ip_Api\\Controllers\\IpController.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAkwFoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T20:56:11.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IpService.cs",
+              "DocumentMoniker": "C:\\Users\\luisf\\Desktop\\ejercicios\\Prueba_Izzi_Ip\\Ip_Api\\Ip_Api\\Services\\IpService.cs",
+              "RelativeDocumentMoniker": "Ip_Api\\Services\\IpService.cs",
+              "ToolTip": "C:\\Users\\luisf\\Desktop\\ejercicios\\Prueba_Izzi_Ip\\Ip_Api\\Ip_Api\\Services\\IpService.cs",
+              "RelativeToolTip": "Ip_Api\\Services\\IpService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAkwBUAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T20:49:35.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IpRecord.cs",
+              "DocumentMoniker": "C:\\Users\\luisf\\Desktop\\ejercicios\\Prueba_Izzi_Ip\\Ip_Api\\Ip_Api\\Models\\IpRecord.cs",
+              "RelativeDocumentMoniker": "Ip_Api\\Models\\IpRecord.cs",
+              "ToolTip": "C:\\Users\\luisf\\Desktop\\ejercicios\\Prueba_Izzi_Ip\\Ip_Api\\Ip_Api\\Models\\IpRecord.cs",
+              "RelativeToolTip": "Ip_Api\\Models\\IpRecord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T19:45:51.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\luisf\\Desktop\\ejercicios\\Prueba_Izzi_Ip\\Ip_Api\\Ip_Api\\Data\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "Ip_Api\\Data\\AppDBContext.cs",
+              "ToolTip": "C:\\Users\\luisf\\Desktop\\ejercicios\\Prueba_Izzi_Ip\\Ip_Api\\Ip_Api\\Data\\AppDBContext.cs",
+              "RelativeToolTip": "Ip_Api\\Data\\AppDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T19:58:56.198Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+[
+  {
+    "ContainingType": "Ip_Api.Controllers.IpController",
+    "Method": "getall",
+    "RelativePath": "api/Ip",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Ip_Api.Controllers.IpController",
+    "Method": "Delete",
+    "RelativePath": "api/Ip/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Ip_Api.Controllers.IpController",
+    "Method": "ConsultIp",
+    "RelativePath": "api/Ip/{ip}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ip",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Ip_Api.Controllers.IpController",
+    "Method": "GetHistory",
+    "RelativePath": "api/Ip/history",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
