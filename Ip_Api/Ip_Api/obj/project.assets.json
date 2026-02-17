@@ -4458,11 +4458,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\luisf\\Desktop\\Prueba_Ip\\Prueba_Izzi_Ip\\Ip_Api\\Ip_Api\\Ip_Api.csproj",
+      "projectUniqueName": "C:\\Users\\luisf\\Desktop\\Prueba_Ip_Consulta\\Ip_Api\\Ip_Api\\Ip_Api.csproj",
       "projectName": "Ip_Api",
-      "projectPath": "C:\\Users\\luisf\\Desktop\\Prueba_Ip\\Prueba_Izzi_Ip\\Ip_Api\\Ip_Api\\Ip_Api.csproj",
+      "projectPath": "C:\\Users\\luisf\\Desktop\\Prueba_Ip_Consulta\\Ip_Api\\Ip_Api\\Ip_Api.csproj",
       "packagesPath": "C:\\Users\\luisf\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\luisf\\Desktop\\Prueba_Ip\\Prueba_Izzi_Ip\\Ip_Api\\Ip_Api\\obj\\",
+      "outputPath": "C:\\Users\\luisf\\Desktop\\Prueba_Ip_Consulta\\Ip_Api\\Ip_Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
